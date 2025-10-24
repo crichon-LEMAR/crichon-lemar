@@ -15,7 +15,7 @@ blog_index: true
     {{ post.title }}
   </h2>
 
-  <a href="{{post.url | relative_url}}"> Lire l'article <span aria-hidden="true">➞</span></a>
+  <a href="{{post.url | relative_url}}"> Read full post <span aria-hidden="true">➞</span></a>
 </article>
 <hr />
 {% endfor %} 
