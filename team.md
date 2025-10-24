@@ -14,7 +14,7 @@ in_menu: true
 
 ----------------------
 
-## Past group members
+## Past group members  
 # Master students
 - Anne Gaymard (now PhD student)
 - Alix Delalande
