@@ -4,8 +4,7 @@ order: 4
 in_menu: true
 ---
 ## Current Projects
-# PREVENT 
-<img src="{% link images/logo.jpeg %}" alt="Logo du PPR PREVENT" width="100">
+# PREVENT <img src="{% link images/logo.jpeg %}" alt="Logo du PPR PREVENT" width="100">
 
 PREVENT studies the oceanic exposome and the combined effects of historical and emerging pollutants on marine organisms and ecosystems.
 
