@@ -6,6 +6,15 @@ in_menu: true
 ## Peer-reviewed articles 
 Full updated list [here](https://scholar.google.com/citations?user=HpseYvUAAAAJ&hl=fr)
 
+# 2025 
+- Evaluating the environmental impact of cleaning the North Pacific Garbage Patch  
+Matthias Egger, Andy M. Booth, Thijs Bosker, Gert Everaert, Samantha L. Garrard, Vilma Havas, Helga S. Huntley, Albert A. Koelmans,
+Karin Kvale, Laurent Lebreton, Helge Niemann, Qiaotong Pang, Maira Proietti, Peter Puskic, **Camille Richon**, Sarah‑Jeanne Royer, Matthew S. Savoca, Arjen Tjallema, Marjolein Vulpen, Yanxu Zhang, Ziman Zhang, Denise M. Mitrano Scientific Reports. DOi: 10.1038/s41598-025-00619-w
+
+- A call for early‑career teams in interdisciplinary microbiology research  
+Arianna I. Krinos, Daniel Muratore, Meriel J. Bittner, Preston Akenga, Leslie Wallace Auerbach, Michael Dills, Emile Faure, Edgart Flores, Naomi M. Levine, Thiago Monteiro, **Camille Richon**, Benjamin S. Twining
+Nature Microbiology. DOi: 10.1038/s41564-025-02097-2
+
 # 2024
 - Exploring the Transport Path of Oceanic Microplastics in the Atmosphere  
 Silvia Bucci, **Camille Richon**, Lucie Bakels
