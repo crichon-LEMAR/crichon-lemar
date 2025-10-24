@@ -9,6 +9,7 @@ Contact me by email for details and application.
 
 
 ## Stage de master 2 - Influence de la MOrphologie Côtière sur l’export côte-large de microplastiques (IMOC)
+<img src="{% link images/ChatGPT Image 23 oct. 2025, 15_26_13.png %}" alt="Visual description of subject" width="300">
 
 **Laboratoire d’accueil** : LEMAR/Geo-Ocean
 
